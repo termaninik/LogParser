@@ -1,0 +1,47 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# --- Logger ---
+logs/
+*.log
+*.log.*
+
+# --- Virtual environments ---
+.venv/
+env/
+venv/
+ENV/
+
+# --- Build & dist ---
+build/
+dist/
+*.spec
+
+# --- IDE / Editors ---
+.vscode/
+.idea/
+*.iml
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- Qt / PySide ---
+*.qmlc
+*.jsc
+*.pro.user
+*.qmlproject.user
+*.qbs.user
+*.qmake.stash
+
+# --- Other system files ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini

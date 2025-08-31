@@ -1,0 +1,1871 @@
+{
+  "30ce2a66": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 44,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 372,
+            "max_mtf": 464,
+            "mtf_diff": 92,
+            "average_mtf": 435,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 428,
+            "max_mtf": 449,
+            "mtf_diff": 21,
+            "average_mtf": 438,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 43,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 376,
+            "max_mtf": 421,
+            "mtf_diff": 45,
+            "average_mtf": 400,
+            "is_valid": false,
+            "errors": [
+              "primary:valid_sfrreg_count_lower:43 < 44"
+            ],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 389,
+            "max_mtf": 398,
+            "mtf_diff": 9,
+            "average_mtf": 391,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": false,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 44,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 308,
+            "max_mtf": 348,
+            "mtf_diff": 40,
+            "average_mtf": 329,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 339,
+            "max_mtf": 346,
+            "mtf_diff": 7,
+            "average_mtf": 343,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  },
+  "30ce319e": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 46,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 371,
+            "max_mtf": 475,
+            "mtf_diff": 104,
+            "average_mtf": 429,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 425,
+            "max_mtf": 450,
+            "mtf_diff": 25,
+            "average_mtf": 439,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 46,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 348,
+            "max_mtf": 451,
+            "mtf_diff": 103,
+            "average_mtf": 395,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 377,
+            "max_mtf": 415,
+            "mtf_diff": 38,
+            "average_mtf": 392,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 45,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 302,
+            "max_mtf": 356,
+            "mtf_diff": 54,
+            "average_mtf": 329,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 328,
+            "max_mtf": 348,
+            "mtf_diff": 20,
+            "average_mtf": 338,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  },
+  "30ce4218": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 0,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 0,
+            "max_mtf": 0,
+            "mtf_diff": 0,
+            "average_mtf": 0,
+            "is_valid": false,
+            "errors": [
+              "primary:min_mtf:0 < 250",
+              "primary:max_mtf_lower:0 < 350",
+              "primary:average_mtf:0 < 320",
+              "primary:valid_sfrreg_count_lower:0 < 44"
+            ],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 0,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 0,
+            "max_mtf": 0,
+            "mtf_diff": 0,
+            "average_mtf": 0,
+            "is_valid": false,
+            "errors": [
+              "secondary:min_mtf:0 < 330",
+              "secondary:max_mtf_lower:0 < 350",
+              "secondary:average_mtf:0 < 340",
+              "secondary:valid_sfrreg_count_lower:0 < 2"
+            ],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": false,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 44,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 395,
+            "max_mtf": 486,
+            "mtf_diff": 91,
+            "average_mtf": 465,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 455,
+            "max_mtf": 476,
+            "mtf_diff": 21,
+            "average_mtf": 462,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 44,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 413,
+            "max_mtf": 486,
+            "mtf_diff": 73,
+            "average_mtf": 445,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 440,
+            "max_mtf": 477,
+            "mtf_diff": 37,
+            "average_mtf": 454,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "4": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 45,
+            "invalid_sfrreg_count": 21,
+            "min_mtf": 325,
+            "max_mtf": 357,
+            "mtf_diff": 32,
+            "average_mtf": 344,
+            "is_valid": false,
+            "errors": [
+              "primary:invalid_sfrreg_count:21 > 10"
+            ],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 2,
+            "min_mtf": 350,
+            "max_mtf": 356,
+            "mtf_diff": 6,
+            "average_mtf": 354,
+            "is_valid": false,
+            "errors": [
+              "secondary:invalid_sfrreg_count:2 > 0"
+            ],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": false,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "5": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 45,
+            "invalid_sfrreg_count": 20,
+            "min_mtf": 315,
+            "max_mtf": 362,
+            "mtf_diff": 47,
+            "average_mtf": 343,
+            "is_valid": false,
+            "errors": [
+              "primary:invalid_sfrreg_count:20 > 10"
+            ],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 1,
+            "min_mtf": 349,
+            "max_mtf": 362,
+            "mtf_diff": 13,
+            "average_mtf": 353,
+            "is_valid": false,
+            "errors": [
+              "secondary:invalid_sfrreg_count:1 > 0"
+            ],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": false,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  },
+  "30ce3573": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 0,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 0,
+            "max_mtf": 0,
+            "mtf_diff": 0,
+            "average_mtf": 0,
+            "is_valid": false,
+            "errors": [
+              "primary:min_mtf:0 < 250",
+              "primary:max_mtf_lower:0 < 350",
+              "primary:average_mtf:0 < 320",
+              "primary:valid_sfrreg_count_lower:0 < 44"
+            ],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 0,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 0,
+            "max_mtf": 0,
+            "mtf_diff": 0,
+            "average_mtf": 0,
+            "is_valid": false,
+            "errors": [
+              "secondary:min_mtf:0 < 330",
+              "secondary:max_mtf_lower:0 < 350",
+              "secondary:average_mtf:0 < 340",
+              "secondary:valid_sfrreg_count_lower:0 < 2"
+            ],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": false,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 46,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 416,
+            "max_mtf": 476,
+            "mtf_diff": 60,
+            "average_mtf": 449,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 429,
+            "max_mtf": 468,
+            "mtf_diff": 39,
+            "average_mtf": 451,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 47,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 397,
+            "max_mtf": 451,
+            "mtf_diff": 54,
+            "average_mtf": 415,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 414,
+            "max_mtf": 430,
+            "mtf_diff": 16,
+            "average_mtf": 422,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "4": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 48,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 285,
+            "max_mtf": 355,
+            "mtf_diff": 70,
+            "average_mtf": 331,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 5,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 344,
+            "max_mtf": 354,
+            "mtf_diff": 10,
+            "average_mtf": 351,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  },
+  "30ce3110": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 45,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 373,
+            "max_mtf": 496,
+            "mtf_diff": 123,
+            "average_mtf": 447,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 462,
+            "max_mtf": 480,
+            "mtf_diff": 18,
+            "average_mtf": 468,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 45,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 361,
+            "max_mtf": 471,
+            "mtf_diff": 110,
+            "average_mtf": 422,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 445,
+            "max_mtf": 463,
+            "mtf_diff": 18,
+            "average_mtf": 454,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 47,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 289,
+            "max_mtf": 361,
+            "mtf_diff": 72,
+            "average_mtf": 334,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 344,
+            "max_mtf": 356,
+            "mtf_diff": 12,
+            "average_mtf": 351,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  },
+  "30ce2a72": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 46,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 374,
+            "max_mtf": 445,
+            "mtf_diff": 71,
+            "average_mtf": 420,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 418,
+            "max_mtf": 441,
+            "mtf_diff": 23,
+            "average_mtf": 429,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 45,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 349,
+            "max_mtf": 397,
+            "mtf_diff": 48,
+            "average_mtf": 368,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 370,
+            "max_mtf": 385,
+            "mtf_diff": 15,
+            "average_mtf": 375,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 46,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 278,
+            "max_mtf": 326,
+            "mtf_diff": 48,
+            "average_mtf": 308,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 312,
+            "max_mtf": 323,
+            "mtf_diff": 11,
+            "average_mtf": 318,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  },
+  "30ce321a": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 49,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 400,
+            "max_mtf": 649,
+            "mtf_diff": 249,
+            "average_mtf": 453,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 464,
+            "max_mtf": 470,
+            "mtf_diff": 6,
+            "average_mtf": 467,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 48,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 385,
+            "max_mtf": 473,
+            "mtf_diff": 88,
+            "average_mtf": 421,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 438,
+            "max_mtf": 468,
+            "mtf_diff": 30,
+            "average_mtf": 455,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 50,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 284,
+            "max_mtf": 583,
+            "mtf_diff": 299,
+            "average_mtf": 329,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 334,
+            "max_mtf": 342,
+            "mtf_diff": 8,
+            "average_mtf": 338,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  },
+  "30ce3004": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 48,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 372,
+            "max_mtf": 473,
+            "mtf_diff": 101,
+            "average_mtf": 441,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 3,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 461,
+            "max_mtf": 476,
+            "mtf_diff": 15,
+            "average_mtf": 469,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 48,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 284,
+            "max_mtf": 482,
+            "mtf_diff": 198,
+            "average_mtf": 413,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 3,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 416,
+            "max_mtf": 445,
+            "mtf_diff": 29,
+            "average_mtf": 434,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 48,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 307,
+            "max_mtf": 353,
+            "mtf_diff": 46,
+            "average_mtf": 330,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 3,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 335,
+            "max_mtf": 353,
+            "mtf_diff": 18,
+            "average_mtf": 345,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  },
+  "30ce2644": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 45,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 359,
+            "max_mtf": 455,
+            "mtf_diff": 96,
+            "average_mtf": 432,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 433,
+            "max_mtf": 452,
+            "mtf_diff": 19,
+            "average_mtf": 440,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 45,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 363,
+            "max_mtf": 421,
+            "mtf_diff": 58,
+            "average_mtf": 394,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 391,
+            "max_mtf": 415,
+            "mtf_diff": 24,
+            "average_mtf": 399,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 46,
+            "invalid_sfrreg_count": 17,
+            "min_mtf": 279,
+            "max_mtf": 347,
+            "mtf_diff": 68,
+            "average_mtf": 328,
+            "is_valid": false,
+            "errors": [
+              "primary:invalid_sfrreg_count:17 > 10"
+            ],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 1,
+            "min_mtf": 337,
+            "max_mtf": 343,
+            "mtf_diff": 6,
+            "average_mtf": 341,
+            "is_valid": false,
+            "errors": [
+              "secondary:invalid_sfrreg_count:1 > 0"
+            ],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": false,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  },
+  "30ce2851": {
+    "1": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 46,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 324,
+            "max_mtf": 539,
+            "mtf_diff": 215,
+            "average_mtf": 417,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 437,
+            "max_mtf": 472,
+            "mtf_diff": 35,
+            "average_mtf": 459,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": true,
+      "extra": null,
+      "errors": []
+    },
+    "2": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 46,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 305,
+            "max_mtf": 451,
+            "mtf_diff": 146,
+            "average_mtf": 371,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 250,
+              "mtf_diff": 220,
+              "average_mtf": 320,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 413,
+            "max_mtf": 423,
+            "mtf_diff": 10,
+            "average_mtf": 419,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 330,
+              "mtf_diff": 220,
+              "average_mtf": 340,
+              "max_mtf_lower": 350,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": false,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    },
+    "3": {
+      "data": {
+        "zones": [
+          {
+            "zone_name": "primary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=220, top_left_y=145, bottom_right_x=740, bottom_right_y=560)",
+            "sfrreg_count": 44,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 265,
+            "max_mtf": 354,
+            "mtf_diff": 89,
+            "average_mtf": 302,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 200,
+              "mtf_diff": 220,
+              "average_mtf": 250,
+              "max_mtf_lower": 250,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 10,
+              "valid_sfrreg_count_lower": 44,
+              "valid_sfrreg_count_upper": 56
+            }
+          },
+          {
+            "zone_name": "secondary",
+            "zone_coordinates": "ZoneCoordinates(top_left_x=390, top_left_y=270, bottom_right_x=555, bottom_right_y=435)",
+            "sfrreg_count": 4,
+            "invalid_sfrreg_count": 0,
+            "min_mtf": 339,
+            "max_mtf": 348,
+            "mtf_diff": 9,
+            "average_mtf": 343,
+            "is_valid": true,
+            "errors": [],
+            "thresholds": {
+              "min_mtf": 270,
+              "mtf_diff": 220,
+              "average_mtf": 280,
+              "max_mtf_lower": 280,
+              "max_mtf_upper": 650,
+              "invalid_sfrreg_count": 0,
+              "valid_sfrreg_count_lower": 2,
+              "valid_sfrreg_count_upper": 6
+            }
+          }
+        ]
+      },
+      "result": true,
+      "is_night": true,
+      "is_hdr": false,
+      "extra": null,
+      "errors": []
+    }
+  }
+}
