@@ -62,7 +62,4 @@ class ParseLogFile:
 
 
 if __name__ == '__main__':
-    t = ParseLogFile('AidisLog.log')
-    t.parse(pattern='Analysis result:')
-    print(t.get_device_id('30ce2a66'))
-    print(t.get_device_id('30ce2a66'))
+    pass
